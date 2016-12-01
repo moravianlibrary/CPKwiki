@@ -1,4 +1,5 @@
 # Průvodce zapojením Vaší knihovny do portálu Knihovny.cz
+
 Tento text by Vám měl posloužit jako průvodce zapojením Vaší knihovny do našeho portálu. Jeho účel je ryze praktický, neklade si za cíl popisovat podrobnosti technického řešení portálu. Samotný **návod pro zapojení je obsažen v několika stručných kapitolách**. 
 
 V případě, že se poštěstí, a výchozí nastavení na Vaší straně umožní hladký průchod celým procesem, bude Vám tento základní text stačit. V opačném případě pro Vás můžou být relevantní některé **podkapitoly, v nichž najdete podrobnější informace** týkající se překážek, na které lze narazit. Při jejich sestavování jsme vycházeli z řešení problémů, se kterými jsme se setkali při své dosavadní činnosti.
@@ -11,13 +12,12 @@ Jak by měl vypadat výsledek úspěšného zapojení Vaší knihovny do portál
 
 Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 
-1.  [Přípravné kroky](prepare)
-2.  [Zpřístupnit fond pro sklízení - OAI-PMH](oai-pmh)
-3.  [Zpřístupnit služby - NCIP](ncip)  
-4.  [Vytvořit testovací uživatele](testusers)
-5.  [Zapojit se do eduId.cz](eduid)
-6.  [Adresář knihoven](addressbook)
-7.  [Projít si kontrolní seznam](checklist)
+1.  [Přípravné kroky](1. Přípravné kroky)
+2.  [Zpřístupnit fond pro sklízení - OAI-PMH](2. Zpřístupnit fond pro sklízení - OAI-PMH)
+3.  [Zpřístupnit služby - NCIP](3. Zpřístupnit služby - NCIP)  
+4.  [Vytvořit testovací uživatele](4. Vytvořit testovací uživatele)
+5.  [Zapojit se do eduId.cz](5. Zapojit se do eduID.cz)
+6.  [Adresář knihoven](6. Adresář knihoven)
 
 | **Je nutné, abychom byli informováni o aktuálním nastavení Vašeho systému.**<br><br>Ohlašujte nám, prosím, jakékoliv relevantní změny a opravy na Vaší straně, ať už se jedná o OAI provider, NCIP responder či cokoliv dalšího, co je zmíněno v tomto návodu. |
 | :-----: |
