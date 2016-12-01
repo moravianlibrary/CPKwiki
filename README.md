@@ -12,11 +12,11 @@ Jak by měl vypadat výsledek úspěšného zapojení Vaší knihovny do portál
 
 Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 
-1.  [Přípravné kroky](1. Přípravné kroky)
+1.  [Přípravné kroky](/wiki/1. Přípravné kroky)
 2.  [Zpřístupnit fond pro sklízení - OAI-PMH](2. Zpřístupnit fond pro sklízení - OAI-PMH)
 3.  [Zpřístupnit služby - NCIP](3. Zpřístupnit služby - NCIP)  
 4.  [Vytvořit testovací uživatele](4. Vytvořit testovací uživatele)
-5.  [Zapojit se do eduId.cz](5. Zapojit se do eduID.cz)
+5.  [Zapojit se do eduID.cz](5. Zapojit se do eduID.cz)
 6.  [Adresář knihoven](6. Adresář knihoven)
 
 | **Je nutné, abychom byli informováni o aktuálním nastavení Vašeho systému.**<br><br>Ohlašujte nám, prosím, jakékoliv relevantní změny a opravy na Vaší straně, ať už se jedná o OAI provider, NCIP responder či cokoliv dalšího, co je zmíněno v tomto návodu. |
