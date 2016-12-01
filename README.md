@@ -12,7 +12,7 @@ Jak by měl vypadat výsledek úspěšného zapojení Vaší knihovny do portál
 
 Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 
-1.  [Přípravné kroky](/wiki/1.%20Přípravné%20kroky)
+1.  [Přípravné kroky](../wiki/1.%20Přípravné%20kroky)
 2.  [Zpřístupnit fond pro sklízení - OAI-PMH](2. Zpřístupnit fond pro sklízení - OAI-PMH)
 3.  [Zpřístupnit služby - NCIP](3. Zpřístupnit služby - NCIP)  
 4.  [Vytvořit testovací uživatele](4. Vytvořit testovací uživatele)
