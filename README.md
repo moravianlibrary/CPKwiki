@@ -24,11 +24,6 @@ Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 
 Komunikace je důležitá. **Nerozpakujte se nás ptát, kdykoliv si během procesu zapojování Vaší knihovny nebudete jistí následujícím krokem.** Nejlepších výsledků lze dosáhnout právě tehdy, když budeme všichni vědět, co od sebe navzájem očekáváme.  
 &nbsp;  
-Co nejpohotovějšímu zodpovězení Vašich dotazů pomůžete komunikací prostřednictvím **poradny**, která je řešena pomocí **issues ve Vašem privátním GitLabovém projektu** (poskytneme Vám odkaz). Stejnou cestu preferujeme i pro ohlašování různých specifik Vaší knihovny, o něž Vás žádáme v tomto návodu.   
-&nbsp;  
-Pro většinu **témat, která se řeší v průběhu zapojování knihovny**, a pro zasílání **informací, které je nutné nám poskytnout**,  jsou vytvořeny **položky v kontrolním seznamu** (poskytneme Vám odkaz), **z nichž lze posílat již předem správně oštítkované issues**. Využijte, prosím, této možnosti, pokud se Váš dotaz bude týkat některé z položek v seznamu.  
-&nbsp;  
-Tento systém nám zpřehlední komunikaci se zapojujícími se knihovnami a pomůže urychlit řešení Vašich dotazů a připomínek.
 
 | Vidíte v tomto návodu nějakou chybu, překlep, neplatný odkaz apod.? Ohlašte nám to [založením issue](../issues/). Děkujeme.  |
 | :-----: |
