@@ -25,5 +25,5 @@ Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 Komunikace je důležitá. **Nerozpakujte se nás ptát, kdykoliv si během procesu zapojování Vaší knihovny nebudete jistí následujícím krokem.** Nejlepších výsledků lze dosáhnout právě tehdy, když budeme všichni vědět, co od sebe navzájem očekáváme.  
 &nbsp;  
 
-| Vidíte v tomto návodu nějakou chybu, překlep, neplatný odkaz apod.? Ohlašte nám to [založením issue](../issues/). Děkujeme.  |
+| Vidíte v tomto návodu nějakou chybu, překlep, neplatný odkaz apod.? Ohlašte nám to [založením issue](../../issues/). Děkujeme.  |
 | :-----: |
