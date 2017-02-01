@@ -12,12 +12,12 @@ Jak by měl vypadat výsledek úspěšného zapojení Vaší knihovny do portál
 
 Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 
-0.  [Přípravné kroky](../../wiki/0.%20Přípravné%20kroky)
-1.  [Zapojit se do eduID.cz](../../wiki/1.%20Zapojit%20se%20do%20eduID.cz)
-2.  [Zpřístupnit fond pro sklízení - OAI-PMH](../../wiki/2.%20Zpřístupnit%20fond%20pro%20sklízení%20-%20OAI-PMH)
-3.  [Zpřístupnit služby - NCIP](../../wiki/3.%20Zpřístupnit%20služby%20-%20NCIP)  
-4.  [Vytvořit testovací uživatele](../../wiki/4.%20Vytvořit%20testovací%20uživatele)
-5.  [Adresář knihoven](../../wiki/5.%20Adresář%20knihoven)
+* [0. Přípravné kroky](../../wiki/0.%20Přípravné%20kroky)
+* [1. Zapojit se do eduID.cz](../../wiki/1.%20Zapojit%20se%20do%20eduID.cz)
+* [2. Zpřístupnit fond pro sklízení - OAI-PMH](../../wiki/2.%20Zpřístupnit%20fond%20pro%20sklízení%20-%20OAI-PMH)
+* [3. Zpřístupnit služby - NCIP](../../wiki/3.%20Zpřístupnit%20služby%20-%20NCIP)  
+* [4. Vytvořit testovací uživatele](../../wiki/4.%20Vytvořit%20testovací%20uživatele)
+* [5. Adresář knihoven](../../wiki/5.%20Adresář%20knihoven)
 
 | **Je nutné, abychom byli informováni o aktuálním nastavení Vašeho systému.**<br><br>Ohlašujte nám, prosím, jakékoliv relevantní změny a opravy na Vaší straně, ať už se jedná o OAI provider, NCIP responder či cokoliv dalšího, co je zmíněno v tomto návodu. |
 | :-----: |
