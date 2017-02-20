@@ -18,6 +18,7 @@ Ale jak toho dosáhnout? Postup lze shrnout do následujících kroků:
 * [3. Zpřístupnit služby - NCIP](../../wiki/3.%20Zpřístupnit%20služby%20-%20NCIP)  
 * [4. Vytvořit testovací uživatele](../../wiki/4.%20Vytvořit%20testovací%20uživatele)
 * [5. Adresář knihoven](../../wiki/5.%20Adresář%20knihoven)
+* [6. Nápověda pro Vaše čtenáře](6. Nápověda pro Vaše čtenáře)
 
 | **Je nutné, abychom byli informováni o aktuálním nastavení Vašeho systému.**<br><br>Ohlašujte nám, prosím, jakékoliv relevantní změny a opravy na Vaší straně, ať už se jedná o OAI provider, NCIP responder či cokoliv dalšího, co je zmíněno v tomto návodu. |
 | :-----: |
